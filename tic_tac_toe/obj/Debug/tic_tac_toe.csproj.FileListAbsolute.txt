@@ -1,0 +1,19 @@
+C:\Users\admin\Desktop\tic_tac_toe\tic_tac_toe\bin\Debug\tic_tac_toe.exe.config
+C:\Users\admin\Desktop\tic_tac_toe\tic_tac_toe\bin\Debug\tic_tac_toe.exe
+C:\Users\admin\Desktop\tic_tac_toe\tic_tac_toe\bin\Debug\tic_tac_toe.pdb
+C:\Users\admin\Desktop\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.Form1.resources
+C:\Users\admin\Desktop\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.Properties.Resources.resources
+C:\Users\admin\Desktop\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.exe
+C:\Users\admin\Desktop\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\PTUD với CSDL\tic_tac_toe\tic_tac_toe\bin\Debug\tic_tac_toe.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\PTUD với CSDL\tic_tac_toe\tic_tac_toe\bin\Debug\tic_tac_toe.exe
+C:\Users\ADMIN\OneDrive\Máy tính\PTUD với CSDL\tic_tac_toe\tic_tac_toe\bin\Debug\tic_tac_toe.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\PTUD với CSDL\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\PTUD với CSDL\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.Form1.resources
+C:\Users\ADMIN\OneDrive\Máy tính\PTUD với CSDL\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\PTUD với CSDL\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\PTUD với CSDL\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\PTUD với CSDL\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.exe
+C:\Users\ADMIN\OneDrive\Máy tính\PTUD với CSDL\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.pdb
